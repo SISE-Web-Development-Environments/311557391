@@ -75,5 +75,15 @@ h2 span {
 	background:plum;
 	padding:0 10px;
 }
+/*emoji*/
+/* Point the arrow upwards when the select box is open (active): */
+.select-selected.select-arrow-active:after {
+	border-color: transparent transparent #fff transparent;
+	top: 7px;
+}
+/* Hide the items when the select box is closed: */
+.select-hide {
+	display: none;
+}
 
   
