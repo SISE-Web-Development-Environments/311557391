@@ -1,193 +1,195 @@
 <!DOCTYPE html>
 <html>
+<style>
+ body  {
+  background-image: url("ggg.gif");
+  background-color: #cccccc;
+ }
+</style>
 <head>
-<link rel="stylesheet" type="text/css" href="style.css" />
+ <meta charset="UTF-8">
+ <link rel="stylesheet" type="text/css" href="style.css" />
+
 </head>
 <body>
-<div id="menu">
-<li><a href="#about">About Me</a></li>
-<li><a href="#photos">My Photos</a></li>
-<li><a href="#playlist">My Playlist</a></li>
-<li><a href="#like">Like</a></li>
-<li><a href="#qrcoder">QR code</a></li>
-<li><a href="#spa">Q&A</a></li>
-<li><a href="#contact">Contact Me</a></li>
+<div class="scrollmenu" style="position: fixed; top: 0px;">
+ <a href="#about">About Me</a>
+ <a href="#photos">My Photos</a>
+ <a href="#playlist">My Playlist</a>
+ <a href="#like">Like</a>
+ <a href="#qrcoder">QR code</a>
+ <a href="#spa">Q&A</a>
+ <a href="#contact">Contact Me</a>
 </div>
-		  
-<section id="about" class="section">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-about me
-<br/>
-<br/>
-<br/>
-</section>
+<script>
+ // When the user scrolls down 20px from the top of the document, slide down the navbar
+ window.onscroll = function() {scrollFunction()};
 
+ function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+   document.getElementById("navbar").style.top = "0";
+  } else {
+   document.getElementById("navbar").style.top = "-50px";
+  }
+ }
+</script>
+
+<hr>
+<section id="about" class="section">
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <h2><span>About Me</span></h2>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+</section>
 <section id="photos" class="section">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-my photos
-<br/>
-<br/>
-<br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <h2><span>My Photos</span></h2>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 </section>
 
 <section id="playlist" class="section">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-my playlist
-<br/>
-<br/>
-<br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <h2><span>My Playlist</span></h2>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/xcXpKgjBxVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/mmq5zZfmIws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 </section>
 
 <section id="like" class="section">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-give me a like
-<br/>
-<br/>
-<br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <h2><span>Give a Like</span></h2>
+ <br/>
+ <br/>
+ <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F%25D7%25A7%25D7%2595%25D7%25A4%25D7%2594-%25D7%25A8%25D7%2590%25D7%25A9%25D7%2599%25D7%25AA-1873378909457595%2F&width=138&layout=button_count&action=like&size=small&share=true&height=46&appId" width="138" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>    <br/>
+ <br/>
+ <br/>
+ <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fyoga%2F&width=141&layout=button_count&action=like&size=small&share=true&height=46&appId=236843890336183" width="141" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+ <br/>
+ <br/>
 </section>
-
 <section id="qrcoder" class="section">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-scan my code
-<br/>
-<br/>
-<br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <h2><span>Scan My Code</span></h2>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 </section>
 
 <section id="spa" class="section">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-ans
-<br/>
-<br/>
-<br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <h2><span>Ans</span></h2>
+ <br/>
+ <br/>
+ <br/>
+ <p>I will display &#129299;</p>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 </section>
 
 <section id="contact" class="section">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-contact me
-<br/>
-<br/>
-<br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <h2><span>Contact Me</span></h2>
+ <br/>
+ <br/>
+ <br/>
+ <form action="mailto:noashab@post.bgu.ac.il" method="post" enctype="text/plain" >
+  Name:<br>
+  <input type="text" placeholder="enter your name.." name="name" required name="Name"><br>
+  E-mail:<br>
+  <input type="text" placeholder="enter your mail.." name="mail"><br>
+  Comment:<br>
+  <input type="text" placeholder="comment" name="comment" required name="Comment" size="50"><br><br>
+  <input type="submit" value="Send">
+  <input type="reset" value="Reset">
+ </form>
+ <br/>
+ <br/>
+ <br/>
 </section>
 
 
-<script type="text/javascript">
-$(function(){
-  $("#nav a").click(function(e){
-    e.preventDefault();
-    $('html,body').scrollTo(this.hash,this.hash); 
-  });
-});
-</script>
-<script type="text/javascript">
- $(document).scroll(function() {
-    $('#menu').toggle($(this).scrollTop()>1000)
- });​
- </script>
 </body>
 </html>
