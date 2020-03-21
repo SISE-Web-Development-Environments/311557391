@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="418a6dcd-9b88-445c-b13a-709c1bae789b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="418a6dcd-9b88-445c-b13a-709c1bae789b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +32,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584732511649</updated>
       <workItem from="1584732513037" duration="5922000" />
-      <workItem from="1584790982465" duration="12372000" />
+      <workItem from="1584790982465" duration="12501000" />
     </task>
     <task id="LOCAL-00001" summary="20/3/20 - 9:29">
       <created>1584732579351</created>
@@ -58,7 +55,28 @@
       <option name="project" value="LOCAL" />
       <updated>1584804879962</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="21/3/20 - 18:06">
+      <created>1584806800433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584806800433</updated>
+    </task>
+    <task id="LOCAL-00005" summary="21/3/20 - 18:06">
+      <created>1584806857711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584806857711</updated>
+    </task>
+    <task id="LOCAL-00006" summary="21/3/20 - 18:06">
+      <created>1584806903383</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584806903383</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,13 +87,14 @@
     <MESSAGE value="20/3/20 - 9:33" />
     <MESSAGE value="20/3/20 - 9:37" />
     <MESSAGE value="21/3/20 - 17:34" />
-    <option name="LAST_COMMIT_MESSAGE" value="21/3/20 - 17:34" />
+    <MESSAGE value="21/3/20 - 18:06" />
+    <option name="LAST_COMMIT_MESSAGE" value="21/3/20 - 18:06" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1584806857143">
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1584806902573">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584806857143" />
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584806902573" />
     <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1584806864591">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
