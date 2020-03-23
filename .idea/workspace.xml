@@ -4,7 +4,6 @@
     <list default="true" id="418a6dcd-9b88-445c-b13a-709c1bae789b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
       <workItem from="1584790982465" duration="13796000" />
       <workItem from="1584889281594" duration="2444000" />
       <workItem from="1584898648630" duration="1111000" />
-      <workItem from="1584954581491" duration="2671000" />
+      <workItem from="1584954581491" duration="5135000" />
     </task>
     <task id="LOCAL-00001" summary="20/3/20 - 9:29">
       <created>1584732579351</created>
@@ -111,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584955492103</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="22/3/20 - 11:57&#10;with a like to my webSite">
+      <created>1584957477074</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584957477074</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,21 +131,22 @@
     <MESSAGE value="21/3/20 - 18:06" />
     <MESSAGE value="21/3/20 - 18:17" />
     <MESSAGE value="22/3/20 - 11:24&#10;with a like to my webSite" />
-    <option name="LAST_COMMIT_MESSAGE" value="22/3/20 - 11:24&#10;with a like to my webSite" />
+    <MESSAGE value="22/3/20 - 11:57&#10;with a like to my webSite" />
+    <option name="LAST_COMMIT_MESSAGE" value="22/3/20 - 11:57&#10;with a like to my webSite" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#Notifications" timestamp="1584807145073">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1584807145073" />
-    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1584955490639">
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1584957476376">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584955490639" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1584807567418">
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584957476376" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1584957486044">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584807567418" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1584957486044" />
     <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584807528296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
