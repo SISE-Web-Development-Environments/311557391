@@ -22,7 +22,11 @@ div.scrollmenu a {
 div.scrollmenu a:hover {
 	background-color: #777;
 }
-
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 /*contact Form*/
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
