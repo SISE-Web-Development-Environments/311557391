@@ -89,5 +89,9 @@ h2 span {
 .select-hide {
 	display: none;
 }
+#commentArea {
+	border-color: plum;
+}
+
 
   
