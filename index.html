@@ -208,13 +208,13 @@
  <br/>
 
     <div style= "width: 600px">
-        <form action="mailto:noashab@post.bgu.ac.il" method="post" enctype="text/plain" >
+        <form name="mailform" action="mailto:noashab@post.bgu.ac.il" method="get" enctype="text/plain" >
             <p style="color: white">Name:</p>
-            <input type="text" placeholder="enter your name.." name="name" required name="Name">
+            <input type="text" placeholder="enter your name.." name="name" required name="Name" >
             <p style="color: white">E-mail:</p>
             <input type="text" placeholder="enter your mail.." name="mail" required name="mail">
             <p style="color: white;"> Comment: </p>
-            <textarea id="commentarea" type="text" placeholder="comment"  name="comment" required name="Comment" style="height:150px ; border-color: plum"></textarea><br>
+            <textarea name="body" id="commentarea" type="text" placeholder="comment" required name="Comment" style="height:150px ; border-color:plum"></textarea><br>
             <input type="submit" value="Send">
         </form>
 
