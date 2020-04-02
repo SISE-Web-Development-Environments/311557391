@@ -52,7 +52,7 @@
       <workItem from="1585225768248" duration="4072000" />
       <workItem from="1585491874359" duration="3353000" />
       <workItem from="1585569854233" duration="3703000" />
-      <workItem from="1585815368076" duration="16701000" />
+      <workItem from="1585815368076" duration="16947000" />
     </task>
     <task id="LOCAL-00001" summary="20/3/20 - 9:29">
       <created>1584732579351</created>
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585841304335</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="02/04/20 - 18:00&#10;my grandmother website with photos - try to delete photos next try">
+      <created>1585841714052</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1585841714052</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,14 +288,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1584807145073" />
-    <state x="95" y="42" width="1185" height="608" key="CommitChangelistDialog2" timestamp="1585841303533">
+    <state x="95" y="42" width="1185" height="608" key="CommitChangelistDialog2" timestamp="1585841712450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="95" y="42" width="1185" height="608" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585841303533" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1585841314095">
+    <state x="95" y="42" width="1185" height="608" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585841712450" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1585841719776">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1585841314095" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1585841719776" />
     <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584807528296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
