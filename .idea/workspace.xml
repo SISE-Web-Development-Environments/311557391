@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="418a6dcd-9b88-445c-b13a-709c1bae789b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/im2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/im3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/im4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +55,9 @@
       <workItem from="1585142167840" duration="3495000" />
       <workItem from="1585154504604" duration="727000" />
       <workItem from="1585225768248" duration="4072000" />
-      <workItem from="1585491874359" duration="2730000" />
+      <workItem from="1585491874359" duration="3353000" />
+      <workItem from="1585569854233" duration="3703000" />
+      <workItem from="1585815368076" duration="12541000" />
     </task>
     <task id="LOCAL-00001" summary="20/3/20 - 9:29">
       <created>1584732579351</created>
@@ -169,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585492578504</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="26/3/20 - 15:03&#10;no gibrish emojy :)">
+      <created>1585494770031</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1585494770031</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,14 +225,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1584807145073" />
-    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1585492577212">
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1585494769285">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585492577212" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1585492596630">
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585494769285" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1585494780547">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1585492596630" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1585494780547" />
     <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584807528296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
