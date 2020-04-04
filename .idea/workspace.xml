@@ -61,7 +61,7 @@
       <workItem from="1585491874359" duration="3353000" />
       <workItem from="1585569854233" duration="3703000" />
       <workItem from="1585815368076" duration="21995000" />
-      <workItem from="1585991205347" duration="1366000" />
+      <workItem from="1585991205347" duration="1466000" />
     </task>
     <task id="LOCAL-00001" summary="20/3/20 - 9:29">
       <created>1584732579351</created>
@@ -294,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585992565297</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="04/04/20 - 12:33">
+      <created>1585992788036</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1585992788036</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,17 +342,18 @@
     <MESSAGE value="02/04/20 - 18:00&#10;my grandmother website with photos - try to delete photos maybe last try" />
     <MESSAGE value="02/04/20 - 20:08&#10;my grandmother website with photos" />
     <MESSAGE value="04/04/20 - 12:30" />
-    <option name="LAST_COMMIT_MESSAGE" value="04/04/20 - 12:30" />
+    <MESSAGE value="04/04/20 - 12:33" />
+    <option name="LAST_COMMIT_MESSAGE" value="04/04/20 - 12:33" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#Notifications" timestamp="1584807145073">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1584807145073" />
-    <state x="90" y="67" width="1185" height="608" key="CommitChangelistDialog2" timestamp="1585992564445">
+    <state x="90" y="67" width="1185" height="608" key="CommitChangelistDialog2" timestamp="1585992787338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="90" y="67" width="1185" height="608" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585992564445" />
+    <state x="90" y="67" width="1185" height="608" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585992787338" />
     <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1585992576598">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
